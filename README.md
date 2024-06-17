@@ -1,6 +1,9 @@
 ### Olá mundo! 👋.
 Graduado em Sistemas de Informação e Pós Graduado em Redes e Segurança de Sistemas<br/>
 
+Analista de Suporte
+Redes de Computadores
+Cybersegurança
 
 ##### Minhas Redes Sociais:
 <a href="https://x.com/br470_sc">
